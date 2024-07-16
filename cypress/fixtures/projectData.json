@@ -1,0 +1,18 @@
+{
+  "postRequestBody": {
+    "DOB": "1984-09-19",
+      "EMAIL": "easy_pizzi@yahoo.com",
+      "FIRST_NAME": "Don",
+      "LAST_NAME": "Chicho",
+      "INSTRUCTOR_ID": 2
+  },
+
+"putRequestBody": {
+    "DOB": "1990-01-10",
+      "EMAIL": "easy_pizzi@yahoo.com",
+      "FIRST_NAME": "Don",
+      "LAST_NAME": "Chicho",
+      "INSTRUCTOR_ID": 2
+  }
+
+}
